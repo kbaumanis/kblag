@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lorem Ipsum"
+tag: test
 ---
 
 # Dolor
